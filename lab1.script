@@ -1,0 +1,18 @@
+命令稿啟動於 2017年03月10日 (週五) 10時58分22秒
+]0;ken@ken-UX303UB: ~ken@ken-UX303UB:~$ whoami;pwd
+ken
+/home/ken
+]0;ken@ken-UX303UB: ~ken@ken-UX303UB:~$ git config -l
+user.email=jqp861012@gmail.com
+user.name=talker652
+]0;ken@ken-UX303UB: ~ken@ken-UX303UB:~$ git clone https://github/talker652/lab1.git
+Cloning into 'lab1'...
+fatal: unable to access 'https://github/talker652/lab1.git/': Could not resolve host: github
+]0;ken@ken-UX303UB: ~ken@ken-UX303UB:~$ git clone https://github/talker652/lab1.git./talker652/lab1.gitc/talker652/lab1.gito/talker652/lab1.gitm/talker652/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;ken@ken-UX303UB: ~ken@ken-UX303UB:~$ exit
+
+命令稿已於 2017年03月10日 (週五) 11時00分08秒
+ 完成
